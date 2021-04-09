@@ -7,3 +7,4 @@ public void TakeDamage (float amount)
   {
     Destroy(gameObject);
   }
+}
